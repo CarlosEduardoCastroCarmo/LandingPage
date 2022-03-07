@@ -1,0 +1,38 @@
+@media screen and (max-width: 800px) {
+
+    header{
+        flex-direction: column;
+    }
+    
+    .btnInscreva{
+        flex-direction: row;
+        
+    }
+
+    main{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 38px;
+        text-align: center;
+    }
+
+    form{
+        margin: 0 auto;
+    }
+    input{
+        align-self: center;
+    }
+
+    img{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+
+}
